@@ -1,0 +1,14 @@
+<?xml version="1.0.0" encoding="UTF-8"?>
+<Updates>
+    <Update>
+        <Version>1.1.0</Version>
+        <URL>https://apl-academy.xpertcad.com/v2/analytics/users/getAnalyticsInstallers</URL>
+        <Size>50000</Size>
+        <Description>
+            Nueva actualización disponible:
+            - Mejoras en el rendimiento.
+            - Corrección de errores.
+        </Description>
+        <LaunchArguments>/silent</LaunchArguments>
+    </Update>
+</Updates>
